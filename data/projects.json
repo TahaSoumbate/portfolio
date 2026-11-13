@@ -1,0 +1,32 @@
+[
+  {
+    "id": "speed-optimization-case-study",
+    "slug": "speed-optimization-demo",
+    "title": "E-commerce Speed Optimization",
+    "category": "Performance",
+    "description": "Improved LCP from 4.2s to 1.1s for a React-based e-commerce storefront.",
+    "thumbnail": "/images/speed-demo.png",
+    "tags": ["React", "Performance", "Next.js"],
+    "content": "Full case study content here..."
+  },
+  {
+    "id": "responsive-layout-fix",
+    "slug": "responsive-layout-fix",
+    "title": "Responsive UI Repair",
+    "category": "Bug Fixing",
+    "description": "Fixed broken mobile navigation and overlapping elements on a legacy bootstrap site.",
+    "thumbnail": "/images/layout-fix.png",
+    "tags": ["CSS", "Responsive", "UI/UX"],
+    "content": "Full case study content here..."
+  },
+  {
+    "id": "react-component-library",
+    "slug": "react-component-library",
+    "title": "Reusable React Component Library",
+    "category": "Frontend",
+    "description": "Created a set of accessible, highly-customizable UI components using Tailwind CSS.",
+    "thumbnail": "/images/components-demo.png",
+    "tags": ["React", "TypeScript", "Tailwind"],
+    "content": "Full case study content here..."
+  }
+]

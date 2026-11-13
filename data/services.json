@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bug-fixing",
+    "title": "Bug Fixing & Repairs",
+    "icon": "🔧",
+    "description": "Expert repairs for broken layouts and functionality.",
+    "items": [
+      "Bug Fixing & Responsive Layout Repairs",
+      "Responsive Layout Fixes",
+      "Update older CSS stylesheets",
+      "State Management Debugging"
+    ]
+  },
+  {
+    "id": "performance",
+    "title": "Speed & Performance",
+    "icon": "⚡",
+    "description": "Optimize your website for lightning fast loading speeds.",
+    "items": [
+      "Speed Optimization",
+      "Landing Page Optimization",
+      "Core Web Vitals Improvement",
+      "Image & Asset Optimization"
+    ]
+  },
+  {
+    "id": "deployment",
+    "title": "Migration & Deployment",
+    "icon": "🚀",
+    "description": "Smooth transitions and reliable hosting setups.",
+    "items": [
+      "Website Migration & Deployment",
+      "GitHub / Vercel / Netlify Setup",
+      "Custom Domain Configuration",
+      "Website to Mobile App Conversion"
+    ]
+  },
+  {
+    "id": "frontend",
+    "title": "Frontend Development",
+    "icon": "💻",
+    "description": "Modern, responsive frontend development using React.",
+    "items": [
+      "React & Frontend JavaScript Services",
+      "UI Component Creation",
+      "Figma / Canva / XD to Code",
+      "Landing Page Setup"
+    ]
+  },
+  {
+    "id": "integrations",
+    "title": "Integrations & CMS",
+    "icon": "🔗",
+    "description": "Connecting your site to the tools you use.",
+    "items": [
+      "REST API & Webhook Integration",
+      "CMS & No-Code Customization",
+      "Custom Scripting for No-Code Tools",
+      "HTML/CSS Email Template Coding"
+    ]
+  }
+]
